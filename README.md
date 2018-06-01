@@ -3,7 +3,7 @@
 
 投影片連結：
 
-* [https://bit.ly/2J7rsqQ (上)](https://bit.ly/2J7rsqQ)
+* [https://bit.ly/2kGkOxq (上)](https://bit.ly/2kGkOxq)
 * [https://bit.ly/2J161fo (下)](https://bit.ly/2J161fo)
 
 
