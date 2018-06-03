@@ -7,7 +7,7 @@
 * [https://bit.ly/2J161fo (下)](https://bit.ly/2J161fo)
 
 
-機器人 QR Code:
+機器人 QR Code，可用 Line 掃描加入好友後使用:
 
 ![土炮股票機器人](https://github.com/victorgau/PyConTW2018Talk/blob/master/images/C0BD_CPlDR.png)
 
@@ -30,4 +30,4 @@
     !backtest ==> 回測觀察股清單中的所有股票
     !news n ==> 列出 n 則鉅亨股市新聞 (n < 30)
 
-程式是在演講前才寫好的，所以沒做甚麼 exception handling，如果它沒有回應，歡迎傳訊讓我知道一下，可能是被試到掛掉了。
+程式沒做甚麼例外處理，如果它沒有回應，歡迎傳訊讓我知道一下，可能是掛掉了。
