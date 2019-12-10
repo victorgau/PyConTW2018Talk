@@ -1,6 +1,10 @@
 # PyConTW2018Talk
 土炮一個 Line 股票機器人
 
+影片連結：
+
+* [https://www.youtube.com/watch?v=mcF4Hi0nne0](https://www.youtube.com/watch?v=mcF4Hi0nne0)
+
 投影片連結：
 
 * [https://bit.ly/2kGkOxq (上)](https://bit.ly/2kGkOxq)
